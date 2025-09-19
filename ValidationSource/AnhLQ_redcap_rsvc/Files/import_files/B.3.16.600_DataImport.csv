@@ -1,0 +1,7 @@
+record_id,redcap_survey_identifier,data_types_timestamp,ptname,textbox,radio,notesbox,identifier,identifier_2,date_ymd,datetime_ymd_hmss,data_types_complete
+1,,18/08/2023 12:53,My Name,text box1,99,note box1,PHI,PHI2,18/08/2023,18/08/2023 12:53,2
+2,,18/08/2023 12:54,Your Name,text box2,100,note box2,PHI,PHI2,18/08/2023,18/08/2023 12:53,2
+3,,18/08/2023 12:54,That name,text box3,101,note box3,PHI,PHI2,18/08/2023,18/08/2023 12:54,2
+4,Joe,18/08/2023 12:53,My Name,text box1,99,note box1,PHI,PHI2,18/08/2023,18/08/2023 12:53,2
+5,Jane,18/08/2023 12:54,Your Name,text box2,100,note box2,PHI,PHI2,18/08/2023,18/08/2023 12:53,2
+6,John,18/08/2023 12:54,That name,text box3,101,note box3,PHI,PHI2,18/08/2023,18/08/2023 12:54,2

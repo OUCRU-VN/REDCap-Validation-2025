@@ -1,0 +1,4 @@
+Record,"Variable Name",Value,"Error Message"
+2,field_1,"not a number","The value you provided could not be validated because it does not follow the expected format. Please try again."
+4,field_2,3,"The value is not a valid category for field_2"
+7,field_1,99-3,"The value you provided could not be validated because it does not follow the expected format. Please try again."
